@@ -1,0 +1,4 @@
+include ':app'
+include ':openCVLibrary310'
+
+project(':openCVLibrary310').projectDir = new File(settingsDir, 'openCVLibrary310')
