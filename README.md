@@ -11,7 +11,7 @@ Following are the steps to setup and run the android project
 
 
 
-The methodology, as illustrated above, is:
+**The methodology, as illustrated above, is:**
 * Take user input and detect hand color in HSV
 * Segment hand and compute convex hull
 * Use convex hull to detect fingertips
