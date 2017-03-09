@@ -9,6 +9,8 @@ Following are the steps to setup and run the android project
 *	Click finish
 
 
+
+
 The methodology, as illustrated above, is:
 * Take user input and detect hand color in HSV
 * Segment hand and compute convex hull
